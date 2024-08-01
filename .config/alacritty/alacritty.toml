@@ -12,7 +12,7 @@ columns = 100
 lines = 30
 
 [font]
-size = 15
+size = 10
 
 [font.normal]
 family = "JetBrains Mono Nerd Font"
@@ -30,7 +30,7 @@ style = "Italic"
 family = "JetBrains Mono Nerd Font"
 style = "Bold Italic"
 
-[color.primary]
+[colors.primary]
 background  = "#15141a"
 foreground  = "#edecee"
 
